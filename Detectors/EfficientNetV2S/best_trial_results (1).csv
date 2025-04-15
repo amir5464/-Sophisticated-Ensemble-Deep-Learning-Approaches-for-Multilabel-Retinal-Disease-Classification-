@@ -1,0 +1,6 @@
+Best Trial ID,0
+Score (Objective Value),0.9533436894416809
+fine_tune_from,160
+dense_units,1024
+dropout_rate,0.2
+learning_rate,1.6854122029150702e-06
